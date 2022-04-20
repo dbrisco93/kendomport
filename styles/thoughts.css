@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Roboto Mono', monospace;
+    font-size: small;
+}
+
+#paragraph {
+    width: 34%;
+}
