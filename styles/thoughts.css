@@ -10,3 +10,11 @@ body {
 #paragraph {
     width: 34%;
 }
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+color: white;
+}
