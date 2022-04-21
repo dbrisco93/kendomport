@@ -18,3 +18,15 @@ a {
 a:visited {
 color: white;
 }
+
+#resume {
+    width: 48%;
+    border-width: .5px;
+    border-color: lightgrey;
+}
+
+#resumepic{
+    width:70%;
+    margin-left: 20%;
+    margin-top: 10%;
+}
