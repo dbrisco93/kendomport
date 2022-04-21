@@ -10,3 +10,7 @@ http://dbrisco93.github.io/oklama
 Images for folders created on Photoshop. Basic CSS used for positioning. 
 
 Nu Thoughts page created with default text listed on original oklama website. 
+
+# Release 4/21
+
+Added resume to "step" page. Includes link to actual resume and image of current resume.
